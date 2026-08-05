@@ -16,9 +16,9 @@
 
 <br />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/soufianfallah">
   <img
-    src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github"
+    src="https://img.shields.io/github/followers/soufianfallah?label=Followers&style=for-the-badge&logo=github"
     alt="GitHub followers"
   />
 </a>
@@ -30,7 +30,7 @@
   />
 </a>
 
-<a href="https://www.linkedin.com/in/soufian-fall/">
+<a href="https://www.linkedin.com/in/soufian-fallah">
   <img
     src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
@@ -66,7 +66,7 @@ I enjoy transforming ideas into polished products using clean interfaces, mainta
   alt="Developer coding animation"
 />
 
-    </td>
+    
   </tr>
 </table>
 
