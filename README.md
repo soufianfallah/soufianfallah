@@ -6,8 +6,8 @@
 <div align="center">
 
 <img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:0EA5E9,100:22D3EE&text=Soufiane%20Fallah&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Developer%20%7C%20Building%20practical%20digital%20products&descAlignY=59&descSize=17&animation=fadeIn"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:0EA5E9,100:22D3EE&text=Soufiane%20Fallah&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Developer%20%7C%20Building%20practical%20digital%20products&descAlignY=59&descSize=17&animation=fadeIn"
 />
 
 <a href="https://git.io/typing-svg">
@@ -38,27 +38,25 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A
 
 </div>
 
+---
+
 <table>
 <tr>
 <td width="57%" valign="top">
 
-> whoami
+## `> whoami`
 
-I'm Soufiane Fallah, a software developer based in Morocco.
+I'm **Soufiane Fallah**, a software developer based in Morocco.
 
 I build responsive websites and practical web applications with a focus on clean interfaces, smooth experiences and maintainable code.
 
 My interests sit at the intersection of:
 
-Modern web development
-
-Product and interface design
-
-AI-powered applications
-
-Automation and cloud technologies
-
-Useful digital products that solve real problems
+- Modern web development
+- Product and interface design
+- AI-powered applications
+- Automation and cloud technologies
+- Useful digital products that solve real problems
 
 I enjoy taking a project from the first idea through design, development, refinement and deployment.
 
@@ -66,17 +64,20 @@ I enjoy taking a project from the first idea through design, development, refine
 <td width="43%" align="center" valign="middle">
 
 <img
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="100%"
-alt="Developer coding animation"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="100%"
+  alt="Developer coding animation"
 />
 
 </td>
 </tr>
 </table>
 
-> current_status
+---
 
+## `> current_status`
+
+```typescript
 const soufiane = {
   role: "Software Developer",
   location: "Morocco",
@@ -93,52 +94,52 @@ const soufiane = {
     "Development opportunities"
   ]
 };
+```
 
-> tech_stack
+---
+
+## `> tech_stack`
 
 <div align="center">
 
-Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css&theme=dark" alt="Programming languages"/>
 
 <br/>
 
-Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend technologies"/>
 
 <br/>
 
-Backend, Cloud & Tools
+### Backend, Cloud & Tools
 
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet,azure,git,github,vscode,figma,wordpress&theme=dark" alt="Backend cloud and tools"/>
 
 </div>
 
-> featured_work
+---
+
+## `> featured_work`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Typeleaf
+### Typeleaf
 
 A reading and typing web application that lets users upload PDF or EPUB books and practise typing directly from their own library.
 
-Highlights
+**Highlights**
 
-PDF and EPUB support
-
-Local personal library
-
-Continuous typing experience
-
-Progress, speed and accuracy tracking
-
-Responsive light and dark modes
-
-Built with Next.js, React and TypeScript
+- PDF and EPUB support
+- Local personal library
+- Continuous typing experience
+- Progress, speed and accuracy tracking
+- Responsive light and dark modes
+- Built with Next.js, React and TypeScript
 
 <a href="https://github.com/soufianfallah?tab=repositories&q=typeleaf">
   <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View Typeleaf"/>
@@ -147,21 +148,17 @@ Built with Next.js, React and TypeScript
 </td>
 <td width="50%" valign="top">
 
-Personal Portfolio
+### Personal Portfolio
 
 My personal developer portfolio, designed to present my work, technical capabilities and professional identity through a clean and modern experience.
 
-Highlights
+**Highlights**
 
-Responsive interface
-
-Personal project showcase
-
-Smooth visual interactions
-
-Custom .is-a.dev domain
-
-Clear professional positioning
+- Responsive interface
+- Personal project showcase
+- Smooth visual interactions
+- Custom `.is-a.dev` domain
+- Clear professional positioning
 
 <a href="https://soufianfallah.is-a.dev/">
   <img src="https://img.shields.io/badge/Explore%20Portfolio-Live%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore portfolio"/>
@@ -179,7 +176,9 @@ Clear professional positioning
 
 </div>
 
-> certifications
+---
+
+## `> certifications`
 
 <div align="center">
 
@@ -189,46 +188,54 @@ Clear professional positioning
 
 </div>
 
-> github_activity
+---
+
+## `> github_activity`
 
 <div align="center">
 
 <img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=soufianfallah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=0EA5E9&text_color=C9D1D9&rank_icon=github"
-alt="Soufiane's GitHub statistics"
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=soufianfallah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=0EA5E9&text_color=C9D1D9&rank_icon=github"
+  alt="Soufiane's GitHub statistics"
 />
 
 <img
-width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=soufianfallah&hide_border=true&background=0D1117&ring=22D3EE&fire=0EA5E9&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-alt="Soufiane's GitHub streak"
+  width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=soufianfallah&hide_border=true&background=0D1117&ring=22D3EE&fire=0EA5E9&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+  alt="Soufiane's GitHub streak"
 />
 
 <br/><br/>
 
 <img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=soufianfallah&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&area_color=0EA5E9&hide_border=true"
-alt="Soufiane's GitHub activity graph"
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=soufianfallah&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&area_color=0EA5E9&hide_border=true"
+  alt="Soufiane's GitHub activity graph"
 />
 
 </div>
 
-> how_i_work
+---
 
+## `> how_i_work`
+
+```text
 01. Understand the problem
 02. Define a clear and useful experience
 03. Build with clean, maintainable code
 04. Test across devices and edge cases
 05. Refine the interface and interactions
 06. Deploy, learn and improve
+```
 
-> connect
+---
+
+## `> connect`
 
 <div align="center">
 
-Have a project, idea or opportunity worth discussing?
+### Have a project, idea or opportunity worth discussing?
 
 I am open to development projects, collaborations and professional opportunities.
 
@@ -243,11 +250,13 @@ I am open to development projects, collaborations and professional opportunities
 
 <br/><br/>
 
+```text
 Thanks for visiting. Build something meaningful.
+```
 
 <img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,45:0EA5E9,100:22D3EE&section=footer"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,45:0EA5E9,100:22D3EE&section=footer"
 />
 
 </div>
