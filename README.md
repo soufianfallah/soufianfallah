@@ -1,54 +1,82 @@
-<h2 align="left">Hi 👋! My name is Soufiane Fallah and I'm Software Developer</h2>
+<!-- =========================
+     SOUFIANE FALLAH
+     GITHUB PROFILE README
+========================= -->
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+# Hi, I'm Soufiane Fallah 👋
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Developer;React+%26+Next.js+Developer;Building+modern+web+experiences;Turning+ideas+into+digital+products"
+    alt="Typing introduction"
+  />
+</a>
+
+<br />
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img
+    src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github"
+    alt="GitHub followers"
+  />
+</a>
+
+<a href="mailto:soufianfll39@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/soufian-fall/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="soufianfll39@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/soufian-fall/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/fallah_soufian" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://codepen.io/your-work" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35" alt="codepen logo"  />
-  </a>
-</div>
-## ⚡️ Stats
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
-<br>
+## About Me
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=soufianfallah&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="soufianfallah's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=soufianfallah&theme=transparent&count_private=true&border_radius=10&locale=en" alt="soufianfallah's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=soufianfallah&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="soufianfallah's Most Used Languages" />
-</div>
+I'm a software developer focused on creating modern, responsive and practical digital experiences.
 
-<hr>
-###
+I enjoy transforming ideas into polished products using clean interfaces, maintainable code and thoughtful user experiences.
+
+- 🔭 Building modern web applications and digital products
+- 🌱 Improving my skills in full-stack development and cloud technologies
+- ⚡ Interested in AI-powered applications, automation and creative development
+- 🤝 Open to collaborations, freelance projects and development opportunities
+- 📍 Based in Morocco
+
+    </td>
+    <td width="42%" align="center">
+
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="100%"
+  alt="Developer coding animation"
+/>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## What I Build
+
+```text
+Frontend Development   → Responsive, animated and accessible interfaces
+Full-Stack Apps        → Complete products from interface to backend
+Business Websites      → Professional websites built for conversion
+AI Experiences         → Applications enhanced with AI and automation
+CMS Solutions          → Flexible and manageable WordPress experiences
