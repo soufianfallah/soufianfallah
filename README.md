@@ -22,7 +22,7 @@
 <a href="https://soufianfallah.is-a.dev/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/soufian-fall/">
+<a href="https://www.linkedin.com/in/soufian-fallah/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:soufianfll39@gmail.com">
@@ -122,59 +122,54 @@ const soufiane = {
 
 ---
 
-## `> featured_work`
+## `> featured_repositories`
+
+<div align="center">
+
+<a href="https://github.com/soufianfallah/HelpDesk-Lite">
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=soufianfallah&repo=HelpDesk-Lite&theme=transparent&hide_border=true&title_color=22D3EE&text_color=94A3B8&icon_color=0EA5E9"
+    alt="HelpDesk Lite repository"
+  />
+</a>
+
+<a href="https://github.com/soufianfallah/Business-Analytics-Hub">
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=soufianfallah&repo=Business-Analytics-Hub&theme=transparent&hide_border=true&title_color=22D3EE&text_color=94A3B8&icon_color=0EA5E9"
+    alt="Business Analytics Hub repository"
+  />
+</a>
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Typeleaf
+### HelpDesk Lite
 
-A reading and typing web application that lets users upload PDF or EPUB books and practise typing directly from their own library.
+A lightweight help desk solution designed to organize, track and manage support requests through a clear and practical workflow.
 
-**Highlights**
-
-- PDF and EPUB support
-- Local personal library
-- Continuous typing experience
-- Progress, speed and accuracy tracking
-- Responsive light and dark modes
-- Built with Next.js, React and TypeScript
-
-<a href="https://github.com/soufianfallah?tab=repositories&q=typeleaf">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View Typeleaf"/>
+<a href="https://github.com/soufianfallah/HelpDesk-Lite">
+  <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github" alt="View HelpDesk Lite"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### Personal Portfolio
+### Business Analytics Hub
 
-My personal developer portfolio, designed to present my work, technical capabilities and professional identity through a clean and modern experience.
+A business analytics project focused on turning data into clear insights and practical decision-support experiences.
 
-**Highlights**
-
-- Responsive interface
-- Personal project showcase
-- Smooth visual interactions
-- Custom `.is-a.dev` domain
-- Clear professional positioning
-
-<a href="https://soufianfallah.is-a.dev/">
-  <img src="https://img.shields.io/badge/Explore%20Portfolio-Live%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore portfolio"/>
+<a href="https://github.com/soufianfallah/Business-Analytics-Hub">
+  <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github" alt="View Business Analytics Hub"/>
 </a>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<a href="https://github.com/soufianfallah?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
-</a>
-
-</div>
 
 ---
 
@@ -196,13 +191,13 @@ My personal developer portfolio, designed to present my work, technical capabili
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=soufianfallah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=0EA5E9&text_color=C9D1D9&rank_icon=github"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=soufianfallah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=0EA5E9&text_color=C9D1D9&rank_icon=github"
   alt="Soufiane's GitHub statistics"
 />
 
 <img
   width="49%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=soufianfallah&hide_border=true&background=0D1117&ring=22D3EE&fire=0EA5E9&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+  src="https://streak-stats.demolab.com?user=soufianfallah&hide_border=true&background=0D1117&ring=22D3EE&fire=0EA5E9&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
   alt="Soufiane's GitHub streak"
 />
 
@@ -244,8 +239,11 @@ I am open to development projects, collaborations and professional opportunities
 <a href="mailto:soufianfll39@gmail.com">
   <img src="https://img.shields.io/badge/Start%20a%20Conversation-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Soufiane"/>
 </a>
-<a href="https://www.linkedin.com/in/soufian-fall/">
+<a href="https://www.linkedin.com/in/soufian-fallah/">
   <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="https://soufianfallah.is-a.dev/">
+  <img src="https://img.shields.io/badge/View%20My%20Work-Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
